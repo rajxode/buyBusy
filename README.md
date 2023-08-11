@@ -24,7 +24,13 @@
   <li>User data will be saved in database permanently so that he can see his order history any time.</li>
 </ul>
 
-<h2>Dependencies</h2>
+<h2>Tools and libraries</h2>
 <ul>
-  <li></li>
+  <li>React js</li>
+  <li>Firebase Database</li>
+  <li>ContextAPI</li>
+  <li>react-router-dom</li>
+  <li>react-toastify</li>
+  <li>react-spinner</li>
+  <li>CSS</li>
 </ul>
